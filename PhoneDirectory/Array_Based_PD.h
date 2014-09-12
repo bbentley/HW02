@@ -75,6 +75,10 @@ private:
 					// method not implemented yet
 				}
 	private:
+
+		std::string name;
+		std::string number;
+
 	};
 
 
